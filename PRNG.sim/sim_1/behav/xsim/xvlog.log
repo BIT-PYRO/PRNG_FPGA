@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/entropy_from_pcm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module entropy_from_pcm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/entropy_sampler_button.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module entropy_sampler_button
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/i2s_receiver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2s_receiver
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/lfsr_galois.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lfsr_galois
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/uart_tx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_tx
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/prng_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prng_top

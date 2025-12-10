@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "G:/2025.1/Vivado/data/rsb/busdef" \
+"../../../../../prng_nexys4ddr_vivado2025_1_sources/entropy_from_pcm.v" \
+"../../../../../prng_nexys4ddr_vivado2025_1_sources/entropy_sampler_button.v" \
+"../../../../../prng_nexys4ddr_vivado2025_1_sources/i2s_receiver.v" \
+"../../../../../prng_nexys4ddr_vivado2025_1_sources/lfsr_galois.v" \
+"../../../../../prng_nexys4ddr_vivado2025_1_sources/uart_tx.v" \
+"../../../../../prng_nexys4ddr_vivado2025_1_sources/prng_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

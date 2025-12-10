@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/JKLU BTECH/JKLU SEM_7/Security eng/PRNG/PRNG.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/entropy_from_pcm.v,1761648128,verilog,,D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/entropy_sampler_button.v,,entropy_from_pcm,,,G:/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/entropy_sampler_button.v,1763041705,verilog,,D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/i2s_receiver.v,,entropy_sampler_button,,,G:/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/i2s_receiver.v,1761647064,verilog,,D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/lfsr_galois.v,,i2s_receiver,,,G:/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/lfsr_galois.v,1761647063,verilog,,D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/uart_tx.v,,lfsr_galois,,,G:/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/prng_top.v,1763547620,verilog,,,,prng_top,,,G:/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/uart_tx.v,1761647064,verilog,,D:/JKLU BTECH/JKLU SEM_7/Security eng/prng_nexys4ddr_vivado2025_1_sources/prng_top.v,,uart_tx,,,G:/2025.1/Vivado/data/rsb/busdef,,,,,

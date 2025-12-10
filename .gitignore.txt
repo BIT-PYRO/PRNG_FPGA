@@ -1,0 +1,78 @@
+##############################
+# Vivado Project Ignore File
+# Safe for RTL, XDC, BD, IP, TCL
+##############################
+
+# Vivado auto-generated folders
+*.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.gen/
+*.sim/
+*.webtalk/
+*.srcs/sources_1/ipshared/
+*.srcs/sources_1/bd/*/hdl/
+*.srcs/sources_1/bd/*/ip/
+
+# Vivado project database files
+*.jou
+*.log
+*.str
+*.tcl.restore
+*.html
+*.xml
+*.backup.jou
+*.backup.log
+
+# Implementation and synthesis outputs
+*.dcp
+*.bit
+*.bin
+*.mmi
+*.pb
+*.rpt
+*.ltx
+*.bmm
+*.elf
+*.map
+*.mcs
+*.ncd
+*.prm
+
+# IP-related generated products
+*.sdk/
+*.hdf
+*.xml
+*.json
+
+# Checkpoints and temporary data
+*.chk
+*.tmp
+*.temp
+*.cache
+*.crashdump
+
+# Simulation outputs
+*.wdb
+*.vcd
+*.saif
+
+# IDE junk
+.DS_Store
+Thumbs.db
+
+# Python/utility script caches (if using scripts)
+__pycache__/
+*.pyc
+
+##############################
+# Files that SHOULD be tracked:
+# - RTL (*.v, *.sv, *.vh, *.vhd)
+# - XDC constraints (*.xdc)
+# - .bd block design files
+# - .xpr project file
+# - Custom IP (inside manually created ip/ folder)
+# - Scripts (*.tcl)
+##############################
